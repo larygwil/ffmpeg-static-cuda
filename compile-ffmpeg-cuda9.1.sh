@@ -188,6 +188,7 @@ git clone https://chromium.googlesource.com/webm/libvpx  && \
 cd libvpx  && \
 PATH="$HOME/bin:$PATH" ./configure --prefix="$HOME/ffmpeg_build" --disable-examples --enable-runtime-cpu-detect --enable-vp9 --enable-vp8 \
 --enable-postproc --enable-vp9-postproc --enable-multi-res-encoding --enable-webm-io --enable-better-hw-compatibility --enable-vp9-highbitdepth --enable-onthefly-bitpacking --enable-realtime-only \
+--disable-docs --disable-tools --disable-unit-tests \
 --cpu=native --as=nasm --enable-static --disable-shared
 PATH="$HOME/bin:$PATH" make -j$(nproc)  && \
 make -j$(nproc) install  && \

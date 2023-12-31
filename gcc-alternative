@@ -1,0 +1,29 @@
+#!/bin/bash
+
+CHOOSE_VER=$1
+
+cd /usr/bin
+
+declare -a LINK_FILES
+LINK_FILES=(
+"gcov"
+"gcov-dump"
+"gcov-tool"
+"gcc"
+"gcc-ar"
+"gcc-nm"
+"gcc-ranlib"
+"cpp"
+"g++"
+)
+
+for (( i=0; i<${#LINK_FILES[@]}; i++ )) ; do
+    rm ${LINK_FILES[$i]}
+    ln -s ${LINK_FILES[$i]}-${CHOOSE_VER}   ${LINK_FILES[$i]}
+done
+
+rm cc
+ln -s gcc-${CHOOSE_VER} cc
+
+rm c++
+ln -s g++-${CHOOSE_VER} c++

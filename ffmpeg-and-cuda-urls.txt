@@ -1,3 +1,4 @@
+https://drivers.eu/Video/NVidia
 
 https://gist.github.com/gfodor/d8840537bb5ca35624d7f596e9835ee0
 https://gist.github.com/ransagy/3f6f1a9e5ede6212425f3b36b136216e
@@ -7,13 +8,51 @@ https://github.com/markus-perl/ffmpeg-build-script
 
 https://www.nvidia.com/en-us/drivers/unix/
 
+https://developer.nvidia.com/content/cuda-10  (cuda 1.0)
+https://developer.nvidia.com/cuda-toolkit-50-archive
+https://developer.nvidia.com/video-codec-sdk-archive
 =================================
 
-https://download.nvidia.com/XFree86/Linux-x86_64/
+https://download.nvidia.com/XFree86/Linux-x86_64/   有所有版本和各个小版本
 https://developer.download.nvidia.cn/compute/cuda/repos/opensuse423/x86_64/
 http://http.download.nvidia.com/cuda-toolkit/9.0.103/
 https://developer.download.nvidia.cn/compute/cuda/opensource/
 https://developer.download.nvidia.cn/compute/cuda/redist/
+
+http://developer.download.nvidia.com/compute/nvenc/v4.0/nvenc_4.0.0_linux_sdk.zip
+http://developer.download.nvidia.com/compute/nvenc/v5.0/nvenc_5.0.1_sdk.zip ( win and linux)
+
+https://tw.download.nvidia.com/XFree86/Linux-x86_64/295.59/NVIDIA-Linux-x86_64-295.59.run
+
+http://developer.download.nvidia.com/compute/cuda/1.0/linux/sdk/NVIDIA_CUDA_SDK_1.0.run
+http://developer.download.nvidia.com/compute/cuda/1.0/linux/toolkits/NVIDIA_CUDA_Toolkit_1.0_sled_x86_64.run
+http://developer.download.nvidia.com/compute/cuda/1.0/linux/toolkits/NVIDIA_CUDA_Toolkit_1.0_suse_10.1_x86_64.run
+http://developer.download.nvidia.com/compute/cuda/1.0/linux/toolkits/NVIDIA_CUDA_Toolkit_1.0_suse_10.2_x86_64.run
+http://developer.download.nvidia.com/compute/cuda/1.0/linux/driver/64/NVIDIA-Linux-x86_64-100.14.11-pkg2.run
+
+http://developer.download.nvidia.com/compute/cuda/3_0/drivers/devdriver_3.0_linux_64_195.36.15.run
+http://www.nvidia.com/object/thankyou.html?url=/compute/cuda/3_0/toolkit/cudatoolkit_3.0_linux_64_ubuntu9.04.run
+http://www.nvidia.com/object/thankyou.html?url=/compute/cuda/3_0/toolkit/cudatoolkit_3.0_linux_64_suse11.1.run
+http://www.nvidia.com/object/thankyou.html?url=/compute/cuda/3_0/toolkit/cudatoolkit_3.0_linux_64_sled11.0.run
+
+https://developer.nvidia.com/cuda-toolkit-31-downloads
+http://developer.download.nvidia.com/compute/cuda/3_1/drivers/devdriver_3.1_linux_64_256.40.run
+http://www.nvidia.com/object/thankyou.html?url=/compute/cuda/3_1/toolkit/cudatoolkit_3.1_linux_64_ubuntu9.10.run
+http://www.nvidia.com/object/thankyou.html?url=/compute/cuda/3_1/toolkit/cudatoolkit_3.1_linux_64_suse11.2.run
+http://www.nvidia.com/object/thankyou.html?url=/compute/cuda/3_1/toolkit/cudatoolkit_3.1_linux_64_sled11.0.run
+
+https://developer.nvidia.com/cuda-toolkit-32-downloads
+http://developer.download.nvidia.com/compute/cuda/3_2_prod/drivers/devdriver_3.2_linux_64_260.19.26.run
+http://www.nvidia.com/object/thankyou.html?url=/compute/cuda/3_2_prod/toolkit/cudatoolkit_3.2.16_linux_64_ubuntu10.04.run
+http://www.nvidia.com/object/thankyou.html?url=/compute/cuda/3_2_prod/toolkit/cudatoolkit_3.2.16_linux_64_suse11.2.run
+http://www.nvidia.com/object/thankyou.html?url=/compute/cuda/3_2_prod/toolkit/cudatoolkit_3.2.16_linux_64_sled11.0.run
+
+http://developer.download.nvidia.com/compute/cuda/4_2/rel/drivers/devdriver_4.2_linux_64_295.41.run
+http://developer.download.nvidia.com/compute/cuda/4_2/rel/sdk/gpucomputingsdk_4.2.9_linux.run
+http://developer.download.nvidia.com/compute/cuda/4_2/rel/toolkit/cudatoolkit_4.2.9_linux_64_suse11.2.run
+http://developer.download.nvidia.com/compute/cuda/4_2/rel/toolkit/cudatoolkit_4.2.9_linux_64_sles11.0.run
+http://developer.download.nvidia.com/compute/cuda/4_2/rel/toolkit/cudatoolkit_4.2.9_linux_64_ubuntu11.04.run
+http://developer.download.nvidia.com/compute/cuda/4_2/rel/toolkit/cudatoolkit_4.2.9_linux_64_ubuntu10.04.run
 
 https://download.nvidia.com/XFree86/Linux-x86_64/387.22/NVIDIA-Linux-x86_64-387.22.run
 https://download.nvidia.com/XFree86/Linux-x86_64/387.22/NVIDIA-Linux-x86_64-387.22-no-compat32.run
@@ -28,10 +67,15 @@ https://download.nvidia.com/XFree86/nvidia-installer/nvidia-installer-387.22.tar
 https://download.nvidia.com/XFree86/nvidia-installer/nvidia-installer-387.34.tar.bz2
 https://download.nvidia.com/XFree86/nvidia-installer/nvidia-installer-390.157.tar.bz2
 
+http://developer.download.nvidia.com/compute/cuda/5_0/rel-update-1/installers/cuda_5.0.35_linux_64_ubuntu11.10-1.run (driver 304)
+http://developer.download.nvidia.com/compute/cuda/5_0/rel-update-1/installers/cuda_5.0.35_linux_64_ubuntu10.04-1.run
+http://developer.download.nvidia.com/compute/cuda/5_0/rel-update-1/installers/cuda_5.0.35_linux_64_suse12.1-1.run
 
-https://developer.download.nvidia.com/compute/cuda/6_5/rel/installers/cuda_6.5.14_linux_64.run
-https://developer.download.nvidia.com/compute/cuda/7_0/Prod/local_installers/cuda_7.0.28_linux.run
-https://developer.download.nvidia.com/compute/cuda/7.5/Prod/local_installers/cuda_7.5.18_linux.run
+https://developer.download.nvidia.com/compute/cuda/5_5/rel/installers/cuda_5.5.22_linux_64.run (driver 319)
+https://developer.download.nvidia.com/compute/cuda/6_0/rel/installers/cuda_6.0.37_linux_64.run (driver 331)
+https://developer.download.nvidia.com/compute/cuda/6_5/rel/installers/cuda_6.5.14_linux_64.run (driver 340)
+https://developer.download.nvidia.com/compute/cuda/7_0/Prod/local_installers/cuda_7.0.28_linux.run (driver 346)
+https://developer.download.nvidia.com/compute/cuda/7.5/Prod/local_installers/cuda_7.5.18_linux.run (driver 352)
 https://developer.nvidia.com/compute/cuda/8.0/Prod2/local_installers/cuda_8.0.61_375.26_linux-run
 https://developer.nvidia.com/compute/cuda/9.0/Prod/local_installers/cuda_9.0.176_384.81_linux-run
 https://developer.nvidia.com/compute/cuda/9.1/Prod/local_installers/cuda_9.1.85_387.26_linux
